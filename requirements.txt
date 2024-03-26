@@ -1,5 +1,2 @@
-mkdocs
-pip
-#Add pip package if needed
-#mkdocs-bootswatch
-#mkdocs-minify-plugin
+mkdocs==1.5.2
+mkdocs-material==9.1.21
